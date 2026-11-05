@@ -93,9 +93,6 @@ I'm **Jan Wolf**, a developer from **Frankfurt am Main, Germany** building at th
 </td>
 </tr>
 </table>
-
-> 💡 **Tipp:** Beide Repos sind aktuell **private** — mache sie public, damit Besucher sie sehen können (Settings → Danger Zone → Change visibility). Dein Profil zeigt sie dann automatisch mit Stars & Sprachen.
-
 ---
 
 ### 🧰 Tech Stack

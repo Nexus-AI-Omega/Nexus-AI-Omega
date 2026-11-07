@@ -3,6 +3,9 @@
 <!-- Animated Header Wave Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,26,35&height=230&section=header&text=NEXUS%20AI%20%20%E2%80%A2%20%20OMEGA&fontSize=42&fontAlignY=38&desc=Architecting%20Next-Gen%20Minecraft%20Infrastructure%20%E2%80%A2%20Mobile%20GL%20%E2%80%A2%20AI%20Systems&descSize=15&descAlignY=62&fontColor=00FFA3&descColor=00E5FF&animation=twinkling" width="100%" alt="Nexus AI Omega Banner"/>
 
+
+
+
 <!-- Dynamic Animated Typing SVG -->
 <a href="https://github.com/Nexus-AI-Omega">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2800&pause=1100&color=00FFA3&center=true&vCenter=true&multiline=true&width=780&height=95&lines=%E2%9A%A1+SYSTEM+ONLINE+%E2%80%94+JAN+WOLF+(NEXUS+AI+OMEGA);%F0%9F%8E%AE+CREATOR+OF+NEXUSGRID+%7C+MINECRAFT+JAVA+%2B+SHADERS+ON+MOBILE;%F0%9F%9B%A1%EF%B8%8F+MINECRAFT+SERVER+DASHBOARD+%7C+CYBER-TECH+MANAGEMENT;%F0%9F%A4%96+HIGH-THROUGHPUT+AI+ENGINES+%26+ZERO-TRUST+INFRASTRUCTURE" alt="Typing SVG" />

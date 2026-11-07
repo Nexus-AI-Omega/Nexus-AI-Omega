@@ -133,16 +133,6 @@ Guiding Principle: "Empower Mobile & Server Ecosystems — Raw Performance Every
 
 ### 📊 Real-Time Telemetry & Statistics
 
-<div align="center">
-
-<!-- GitHub Stats & Top Langs with Glowing Neon Dark Theme -->
-<a href="https://github.com/Nexus-AI-Omega">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nexus-AI-Omega&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b0f19&title_color=00ffa3&icon_color=00e5ff&text_color=94a3b8&count_private=true&include_all_commits=true" height="175" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nexus-AI-Omega&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b0f19&title_color=00ffa3&text_color=94a3b8&langs_count=8" height="175" alt="Top Languages" />
-</a>
-
-<br/><br/>
-
 <!-- Streak Stats Card & Profile Summary -->
 <a href="https://github.com/Nexus-AI-Omega">
   <img src="https://streak-stats.demolab.com/?user=Nexus-AI-Omega&theme=tokyonight&hide_border=true&border_radius=12&background=0b0f19&ring=00ffa3&fire=00e5ff&currStreakLabel=00ffa3&sideLabels=00e5ff&sideNums=ffffff&currStreakNum=ffffff" width="49%" alt="GitHub Streak" />
@@ -151,12 +141,6 @@ Guiding Principle: "Empower Mobile & Server Ecosystems — Raw Performance Every
 
 <br/><br/>
 
-<!-- Dynamic Activity Graph -->
-<a href="https://github.com/Nexus-AI-Omega">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nexus-AI-Omega&theme=react-dark&custom_title=System%20Activity%20Matrix&bg_color=0b0f19&color=00ffa3&line=00e5ff&point=ffffff&hide_border=true&area=true" width="100%" alt="Activity Graph"/>
-</a>
-
-</div>
 
 ---
 

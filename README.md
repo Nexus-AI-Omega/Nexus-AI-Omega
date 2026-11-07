@@ -11,12 +11,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2800&pause=1100&color=00FFA3&center=true&vCenter=true&multiline=true&width=780&height=95&lines=%E2%9A%A1+SYSTEM+ONLINE+%E2%80%94+JAN+WOLF+(NEXUS+AI+OMEGA);%F0%9F%8E%AE+CREATOR+OF+NEXUSGRID+%7C+MINECRAFT+JAVA+%2B+SHADERS+ON+MOBILE;%F0%9F%9B%A1%EF%B8%8F+MINECRAFT+SERVER+DASHBOARD+%7C+CYBER-TECH+MANAGEMENT;%F0%9F%A4%96+HIGH-THROUGHPUT+AI+ENGINES+%26+ZERO-TRUST+INFRASTRUCTURE" alt="Typing SVG" />
 </a>
 
-
-
-
 <br/>
 
 
+
+</p>
 
 <!-- Status & Location Badges -->
 <p align="center">

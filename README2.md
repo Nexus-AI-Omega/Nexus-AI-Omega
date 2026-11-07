@@ -28,8 +28,8 @@ I enjoy turning ideas into useful software\. My main interests are **AI systems,
 ├──────────────────────────────────────────────────────────────┤
 │  Focus       AI · Minecraft · Automation · Web Apps          │
 │  Mindset     Learn → Design → Build → Test → Improve         │
-│  Mission     Turn ambitious ideas into useful tools           │
-│  Signature   Dark interfaces · Neon details · Modular systems │
+│  Mission     Turn ambitious ideas into useful tools          │
+│  Signature   Dark interfaces · Neon details · Modular systems│
 ╰──────────────────────────────────────────────────────────────╯
 ```
 

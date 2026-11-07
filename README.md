@@ -13,6 +13,8 @@
 
 <br/>
 
+
+
 <!-- Status & Location Badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Frankfurt%20am%20Main%2C%20Germany-0ea5e9?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>

@@ -46,15 +46,6 @@ Core Domains:
 Guiding Principle: "Empower Mobile & Server Ecosystems — Raw Performance Everywhere."
 ```
 
----
-
-### 🏆 GitHub Trophies & Recognition
-
-<div align="center">
-  <a href="https://github.com/Nexus-AI-Omega">
-    <img src="https://github-profile-trophy.vercel.app/?username=Nexus-AI-Omega&theme=onedark&no-frame=true&margin-w=6&column=7" alt="Nexus AI Omega GitHub Trophies" width="100%"/>
-  </a>
-</div>
 
 ---
 
